@@ -21,3 +21,5 @@ symbol_number = ord("а")
 while symbol_number <= ord("я"):
     print(f"number - {symbol_number} : letter - {chr(symbol_number)}")
     symbol_number += 1
+
+print( "test git - second coomit")

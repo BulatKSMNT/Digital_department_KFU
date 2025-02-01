@@ -23,3 +23,7 @@ while symbol_number <= ord("я"):
     symbol_number += 1
 
 print( "test git - second coomit")
+
+for i in range(113):
+    if(i% 12 == 0):
+        print(i);
